@@ -1,2 +1,1 @@
-# inf
-Welcome 
+# School project
